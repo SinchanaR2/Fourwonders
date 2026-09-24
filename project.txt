@@ -1,10 +1,7 @@
-
+Wonderful friends 
+new feature
+hello wonderfulls , Four Wonders is full of FUN !!
 This is done by Sign -in page incharge .
-------------------------------------------------------------------------------------------------------------------
 This is Sign-in page
----------------------------------------------------------------------------------------------------------
 This can be used when person wants to create a new account 
-------------------------------------------------------------------------------------------------------
-
 This repo created by Sinchana
-
